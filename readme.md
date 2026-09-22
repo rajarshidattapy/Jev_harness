@@ -1,5 +1,7 @@
 # Jev Agent Harness
 
+Link: https://x.com/sydneyrunkle/status/2100754364545761643
+
 A lightweight harness for running and evaluating coding agents with **Jev**.
 
 The harness provides a controlled environment where an agent can:
